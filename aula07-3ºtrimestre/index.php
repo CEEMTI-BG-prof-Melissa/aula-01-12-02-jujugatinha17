@@ -5,8 +5,7 @@
     <body>
         <h2> Operadores de Atribuição </h2>
         <hr>
-
-    hp
+        <?php 
             //Valor inicial
             $a=10;
             //mostra o valor inicial 
@@ -48,7 +47,7 @@
             echo "<br><br>";
             //mostra o valor final
             echo "O valor final é $a. "
-        ?>
+        php/?>
     </body>
 </html>
 
