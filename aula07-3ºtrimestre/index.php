@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> AULA 07 -PHP </title>
+        <title> Aula 07 </title>
     </head>
     <body>
         <h2> Operadores de Atribuição </h2>
